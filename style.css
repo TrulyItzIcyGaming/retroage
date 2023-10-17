@@ -6,6 +6,8 @@
   src: url("public/fonts/daydream.ttf") ;
 }
 :root {
+  --dl-size-size-h: 1080;
+  --dl-size-size-w: 1920;
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;
   --dl-color-gray-900: #D9D9D9;
