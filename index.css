@@ -162,7 +162,7 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
-  background-color: #D9D9D9;
+  background-color: var(--dl-color-primary-700);
 }
 .index-nav-item {
   display: flex;
